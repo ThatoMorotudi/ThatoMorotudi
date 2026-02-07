@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi there, I’m [Thato] (@ThatoMorotudi)
 
-<!--
-**ThatoMorotudi/ThatoMorotudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Software Developer with a passion for building clean, reliable, and user-focused applications.
 
-Here are some ideas to get you started:
+🚀 About Me
+☕ I enjoy building backend systems using Java and C#, focusing on clean architecture and maintainable code.
+🅰️ I work on frontend development using Angular, creating responsive and user-friendly interfaces.
+🧪 I’m experienced in test automation using Playwright, ensuring application quality and reliability.
+🔧 I enjoy working on real-world projects that improve my problem-solving and development skills.
+🌱 Currently learning and improving my skills in Java, Angular, C#, and automated testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Languages:
+Java | C# | TypeScript | SQL
+
+Frameworks & Tools:
+Spring Boot | Angular | .NET | Playwright | Git | GitHub
+
+🎯 Fields of Interest
+
+Full-Stack Web Development
+
+Backend Systems
+
+Frontend Development
+
+Test Automation & Quality Assurance
+
+🔍 What I’m Looking For
+I’m interested in collaborating on real-world software projects, especially full-stack applications and automated testing projects that help me grow as a developer.
+
+📫 Contact Me
+You can reach me at: [thatomorotudi@gmail.com
+]
