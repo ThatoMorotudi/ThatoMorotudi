@@ -13,9 +13,11 @@
 🛠️ Tech Stack
 
 Languages:
+
 Java | C# | TypeScript | Angular
 
 Frameworks & Tools:
+
 Spring Boot | Angular | .NET | Playwright | Git | GitHub
 
 🎯 Fields of Interest
@@ -29,8 +31,10 @@ Frontend Development
 Test Automation & Quality Assurance
 
 🔍 What I’m Looking For
+
 I’m interested in collaborating on real-world software projects, especially full-stack applications and automated testing projects that help me grow as a developer.
 
 📫 Contact Me
+
 You can reach me at: [thatomorotudi@gmail.com
 ]
