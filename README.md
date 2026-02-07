@@ -1,4 +1,4 @@
-👋 Hi there, I’m [Thato] (@ThatoMorotudi)
+👋 Hi there, I’m Thato (@ThatoMorotudi)
 
 💻 I’m a Software Developer with a passion for building clean, reliable, and user-focused applications.
 
@@ -12,7 +12,7 @@
 🛠️ Tech Stack
 
 Languages:
-Java | C# | TypeScript | SQL
+Java | C# | TypeScript | Angular
 
 Frameworks & Tools:
 Spring Boot | Angular | .NET | Playwright | Git | GitHub
