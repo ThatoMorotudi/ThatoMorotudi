@@ -3,6 +3,7 @@
 💻 I’m a Software Developer with a passion for building clean, reliable, and user-focused applications.
 
 🚀 About Me
+
 ☕ I enjoy building backend systems using Java and C#, focusing on clean architecture and maintainable code.
 🅰️ I work on frontend development using Angular, creating responsive and user-friendly interfaces.
 🧪 I’m experienced in test automation using Playwright, ensuring application quality and reliability.
