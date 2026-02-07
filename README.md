@@ -14,7 +14,7 @@
 
 Languages:
 
-Java | C# | TypeScript | Angular
+Java | C# | TypeScript 
 
 Frameworks & Tools:
 
